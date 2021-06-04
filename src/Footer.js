@@ -6,7 +6,7 @@ export default function Footer(props) {
     <div className="Footer">
       <span>
         <small class="OpenSourceLink">
-          <a href="https://q8e7v.csb.app/" target="_blank">
+          <a href="https://dazzling-kilby-0867cc.netlify.app">
             Open-source code
           </a>
           , by Brenann Francis
