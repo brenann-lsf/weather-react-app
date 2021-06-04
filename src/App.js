@@ -1,10 +1,18 @@
 import './App.css';
-import Weather from "./Weather";
+import Row from "./Row";
+import Form from "./Form";
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
-      <p><Weather/></p>
+      <div class="container">
+        <div class="weather-app">
+          <Form />
+          <Row />
+        </div>
+      </div>
+      <Footer />
     </div>
   );
 }
