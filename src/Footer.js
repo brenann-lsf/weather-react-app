@@ -6,7 +6,7 @@ export default function Footer(props) {
     <div className="Footer">
       <span>
         <small class="OpenSourceLink">
-          <a href="https://dazzling-kilby-0867cc.netlify.app">
+          <a href="https://github.com/brenann-lsf/weather-react-app">
             Open-source code
           </a>
           , by Brenann Francis
